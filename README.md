@@ -12,7 +12,7 @@ The Azure Cloud Adoption Journey
 
 
 ## Technical Contents
-*  [eBook: Azure Kubernetes Service(AKS) Adoption Aligned to Cloud Adoption Framework](WVD%20CAF%20Guidance.docx)
+*  [eBook: Azure Kubernetes Service AKS Adoption Aligned to Cloud Adoption Framework](eBook_AKS_Adoption_Aligned_to_Cloud_Adoption_Framework.docx) 
 
    This eBook provides information about what needs to be done in each of the Cloud Adoption phases for AKS Deployment starting from Strategy, Plan, Ready, Adopt, Govern and Manage. We have supplied detailed step by step guidance(from our experiences) that will provide the steps necessary to go from zero to a complete WVD deployment and management aligned to the Cloud Adoption Framework methodology.  
 
