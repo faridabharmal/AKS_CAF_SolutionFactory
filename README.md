@@ -1,5 +1,5 @@
 # Azure Kubernetes Service(AKS) Solution Factory Aligned to Cloud Adoption Framework # 
-The WVD CAF Solution Factory is collection of eBook, TaskList in DevOps Project and Excel, Security Policies suggestions that can help Microsoft customers and partners to deploy and manage Azure Windows Virtual Desktop(WVD) in alignment to Cloud Adoption Framework (CAF).  
+The AKS CAF Solution Factory is collection of eBook, TaskList in DevOps Project and Excel, Security Policies suggestions that can help Microsoft customers and partners to deploy and manage AKS in alignment to Cloud Adoption Framework (CAF).  
 
 The Azure Cloud Adoption Journey
  ![CAF](https://github.com/faridabharmal/WVD_CAF_SolutionFactory/blob/master/TechnicalEnablement/CAF.png)
@@ -28,9 +28,9 @@ The Azure Cloud Adoption Journey
 
    Incase if you are not leveraging Azure DevOps for project management, no worries...We have provided all the necessary steps in an excel sheet which can be leveraged as is or imported into your own project management tool of choice.  
 
- *  [AKS_CAF_Governance_ Security_Policy.xlsx](https://github.com/faridabharmal/WVD_CAF_SolutionFactory/tree/master/TechnicalEnablement)
+ *  [AKS_CAF_Governance_ Security_Policy.xlsx](https://github.com/faridabharmal/AKS_CAF_SolutionFactory/tree/master/TechnicalEnablement)
 
-   One common question that we get is what are the security considerations for WVD Deployment. So we have provided guidance about how to leverage the Azure policies to secure your environment. This can act as a good starting point for your security consideration. 
+   One common question that we get is what are the security considerations for AKS Deployment. So we have provided guidance about how to leverage the Azure policies to secure your environment. This can act as a good starting point for your security consideration. 
 
 ## Additional Links
 
@@ -38,7 +38,7 @@ The Azure Cloud Adoption Journey
 
  * [Additional Cloud Adoption Framework Resources](https://www.microsoft.com/azure/partners/b/enable/cloud-adoption-framework)
 
-* [Windows Virtual Desktop (WVD) Documentation](https://docs.microsoft.com/en-us/azure/virtual-desktop/overview) 
+* [AKS Documentation](https://docs.microsoft.com/en-us/azure/virtual-desktop/overview) 
 
 
 ## Key Contributors
