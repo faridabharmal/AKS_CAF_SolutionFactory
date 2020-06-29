@@ -1,45 +1,44 @@
-# AKS Solution Factory Aligned to Cloud Adoption Framework # 
-The AKS Solution Factory is collection of eBook, DevOps Project and Security Policy Guidance that can be leveraged by Microsoft customers and partners to deploy and manage Azure Kubernetes Cluster (AKS) in alignment to Cloud Adoption Framework (CAF).
+# Azure Kubernetes Service(AKS) Solution Factory Aligned to Cloud Adoption Framework # 
+The WVD CAF Solution Factory is collection of eBook, TaskList in DevOps Project and Excel, Security Policies suggestions that can help Microsoft customers and partners to deploy and manage Azure Windows Virtual Desktop(WVD) in alignment to Cloud Adoption Framework (CAF).  
 
 The Azure Cloud Adoption Journey
- ![CAF](https://github.com/faridabharmal/WVD_CAF_SolutionFactory/blob/master/Technical%20Enablement/CAF.png)
+ ![CAF](https://github.com/faridabharmal/WVD_CAF_SolutionFactory/blob/master/TechnicalEnablement/CAF.png)
 
-## WVD CAF Solution Factory Contents
+## AKS CAF Solution Factory Contents
 
 ## Pre-Sales Contents    
- * [AKS CAF PreSales](https://github.com/faridabharmal/WVD_CAF_SolutionFactory/blob/master/Technical%20Enablement/WVD%20CAF%20Guidance.docx)   
+ * [AKS CAF PreSales](https://github.com/faridabharmal/AKS_CAF_SolutionFactory/blob/master/TechnicalEnablement)   
  Sell-To and Sell-Through guidance on customer and partner business model including licensing and pricing driving the sales motions with cost savings.
 
 
 ## Technical Contents
-*  [eBook: Azure Kubernetes Service AKS Adoption Aligned to Cloud Adoption Framework](eBook_AKS_Adoption_Aligned_to_Cloud_Adoption_Framework.docx) 
+*  [eBook: AKS Adoption Aligned To Cloud Adoption Framework](https://github.com/faridabharmal/AKS_CAF_SolutionFactory/tree/master/TechnicalEnablement)
 
-   This eBook provides information about what needs to be done in each of the Cloud Adoption phases for AKS Deployment starting from Strategy, Plan, Ready, Adopt, Govern and Manage. We have supplied detailed step by step guidance(from our experiences) that will provide the steps necessary to go from zero to a complete WVD deployment and management aligned to the Cloud Adoption Framework methodology.  
+   Guidance about what one needs to do in each of the Cloud Adoption phases for AKS Deployment starting from Strategy, Plan, Ready, Adopt, Govern and Manage. We have supplied detailed step by step guidance(from our experiences) that will provide the steps necessary to go from zero to a complete AKS deployment and management aligned to the Cloud Adoption Framework methodology.  
 
-*  [AKS CAF Project DevOps Project Template](https://github.com/faridabharmal/WVD_CAF_SolutionFactory/tree/master/Technical%20Enablement/WVD%20CAF%20DevOps%20Project%20TaskList)
+*  [AKS CAF Project DevOps Project TaskList](https://github.com/faridabharmal/AKS_CAF_SolutionFactory/tree/master/TechnicalEnablement)
 
-    AKS deployment has multiple task that needs to be done. The AKS DevOps Project Teamplate provides the steps necessary to go from zero to a working AKS deployment and management. 
+    When you go through the AKS deployment, there are multiple tasks that needs to completed. We have supplied Azure DevOps Project that will provide the steps necessary to go from zero to a complete AKS deployment and management. 
 
     Steps to import the DevOps Project:  
     * Sign in to the [Azure DevOps Demo Generator site](https://azuredevopsdemogenerator.azurewebsites.net/)  
-    * Provide project name, select your Org, and choose the "AKS CAF Project Template" from this GitHub Repo 
+    * Provide project name, select your Org, and choose the "AKS_CAF_DevOps_Project_TaskList.zip" template from this GitHub Repo 
 
-*  [AKS CAF Project Task List.xlsx](https://github.com/faridabharmal/WVD_CAF_SolutionFactory/blob/master/Technical%20Enablement/WVD%20CAF%20Project%20Task%20List.xlsx)
+*  [AKS_CAF_Project_ TaskList.xlsx](https://github.com/faridabharmal/AKS_CAF_SolutionFactory/tree/master/TechnicalEnablement)
 
    Incase if you are not leveraging Azure DevOps for project management, no worries...We have provided all the necessary steps in an excel sheet which can be leveraged as is or imported into your own project management tool of choice.  
 
- 
-*  [AKS CAF Governance Security Policy](https://github.com/faridabharmal/WVD_CAF_SolutionFactory/tree/master/Technical%20Enablement/WVD%20CAF%20Governance%20-%20Security)
+ *  [AKS_CAF_Governance_ Security_Policy.xlsx](https://github.com/faridabharmal/WVD_CAF_SolutionFactory/tree/master/TechnicalEnablement)
 
-   One common question that we get is what are the security considerations for AKS Deployment. So we have provided guidance about how to leverage the Azure policies to secure your environment. This can act as a good starting point for your security consideration. 
+   One common question that we get is what are the security considerations for WVD Deployment. So we have provided guidance about how to leverage the Azure policies to secure your environment. This can act as a good starting point for your security consideration. 
 
 ## Additional Links
 
  * [Azure Cloud Adoption Framework Documentation](https://azure.microsoft.com/en-us/cloud-adoption-framework)
 
- * [PowerPoint Slides for Cloud Adoption Framework Resources](https://www.microsoft.com/azure/partners/b/enable/cloud-adoption-framework)
+ * [Additional Cloud Adoption Framework Resources](https://www.microsoft.com/azure/partners/b/enable/cloud-adoption-framework)
 
-* [Azure Kubernetes Service (AKS) Documentation](docs.microsoft.com/en-us/azure/aks/) 
+* [Windows Virtual Desktop (WVD) Documentation](https://docs.microsoft.com/en-us/azure/virtual-desktop/overview) 
 
 
 ## Key Contributors
@@ -48,7 +47,7 @@ Microsoft Team: Farida Bharmal, Manish Dhall, Ali Hussain
 We have leveraged help from Microsoft Partner [Fyrsoft](https://www.fyrsoft.com/) to create the contents.
 
 ## Support for future scenarios
-The contents are provided as-is. We are currently in the process of enhancing the contents. 
+The contents are provided as-is. We periodically update and enhance the contents. 
 
 
 ## Disclaimer  
