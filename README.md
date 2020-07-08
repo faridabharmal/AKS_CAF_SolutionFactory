@@ -13,8 +13,7 @@ The Azure Cloud Adoption Journey
  This presentation is designed to provide a brief introduction to the Cloud Adoption Framework for Azure.
  * [Cloud Adoption Framework - Governance Workshop partner](https://github.com/faridabharmal/AKS_CAF_SolutionFactory/blob/master/SalesEnablement/Cloud%20Adoption%20Framework%20-%20Governance%20Workshop_partner.pptx)
  * [Cloud Adoption Framework_Strategy-Plan-Ready Workshop partner](https://github.com/faridabharmal/AKS_CAF_SolutionFactory/blob/master/SalesEnablement/Cloud%20Adoption%20Framework_Strategy-Plan-Ready%20Workshop_partner.pptx)
-
-
+* [Kubernetes on Azure Pitch Deck](): Provide overview of Kubernetes on Azure and articulate the differentiators as well as benefits
 
 ## Technical Contents
 *  [eBook: AKS Adoption Aligned To Cloud Adoption Framework](https://github.com/faridabharmal/AKS_CAF_SolutionFactory/tree/master/TechnicalEnablement):
