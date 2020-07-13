@@ -1,5 +1,13 @@
 
+# AKS Adoption Aligned to Cloud Adoption Framework
+
+This document is designed to review adoption of AKS that is aligned to the Cloud Adoption Framework.
+
+# Table of Contents
+
 - [AKS Adoption Aligned to Cloud Adoption Framework](#aks-adoption-aligned-to-cloud-adoption-framework)
+- [Table of Contents](#table-of-contents)
+- [Introduction](#introduction)
 - [Establishing Strategy](#establishing-strategy)
   - [Understanding Business Motivations](#understanding-business-motivations)
   - [AKS Business Outcomes](#aks-business-outcomes)
@@ -65,7 +73,7 @@
   - [Business Continuity and Disaster Recovery](#business-continuity-and-disaster-recovery)
 
 
-# AKS Adoption Aligned to Cloud Adoption Framework
+# Introduction
 
 Let's start by understanding what Cloud Adoption Framework is. Cloud
 Adoption Framework is a collection of documentation, implementation
