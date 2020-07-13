@@ -83,7 +83,7 @@ diagram shows the different phases of Cloud Adoption Framework Journey.
 In this document we explain what needs to happen for AKS deployment and
 management in each phase of the cloud adoption framework.
 
-![](media/image2.png)
+![](media/cloud-adoption-framework.png)
 
 # Establishing Strategy 
 
