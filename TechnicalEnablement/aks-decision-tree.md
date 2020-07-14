@@ -70,7 +70,6 @@
 
 - Logging considerations
     - Why
-
         - Diagnostic logs should be enabled when needed - as excessive logging can hurt performance.
         - However, we recommend enabling logging for the following components:
             - [Cluster Autoscaler](https://docs.microsoft.com/en-us/azure/aks/cluster-autoscaler#retrieve-cluster-autoscaler-logs-and-status) - understand why it is autoscaling…or not
