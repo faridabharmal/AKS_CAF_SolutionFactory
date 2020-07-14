@@ -16,28 +16,27 @@ The Azure Cloud Adoption Journey
 * [Kubernetes on Azure Pitch Deck](https://github.com/faridabharmal/AKS_CAF_SolutionFactory/blob/master/SalesEnablement/Kubernetes%20on%20Azure%20Pitch%20Deck.pptx): Provide overview of Kubernetes on Azure and articulate the differentiators as well as benefits
 
 ## Technical Contents
-*  [eBook: AKS Adoption Aligned To Cloud Adoption Framework](https://github.com/faridabharmal/AKS_CAF_SolutionFactory/tree/master/TechnicalEnablement):
+*  [AKS Adoption Aligned To Cloud Adoption Framework](TechnicalEnablement/AKS-adoption-aligned-to-cloud-adoption-framework.md):
 Guidance about what one needs to do in each of the Cloud Adoption phases for AKS Deployment starting from Strategy, Plan, Ready, Adopt, Govern and Manage. We have supplied detailed step by step guidance(from our experiences) that will provide the steps necessary to go from zero to a complete AKS deployment and management aligned to the Cloud Adoption Framework methodology.  
 
-*  [AKS CAF Project DevOps Project TaskList](https://github.com/faridabharmal/AKS_CAF_SolutionFactory/tree/master/TechnicalEnablement):
+*  [AKS CAF Project DevOps Project TaskList](TechnicalEnablement/AKS_CAF_DevOps_Project_TaskList.zip):
 When you go through the AKS deployment, there are multiple tasks that needs to completed. We have supplied Azure DevOps Project that will provide the steps necessary to go from zero to a complete AKS deployment and management. 
 
     Steps to import the DevOps Project:  
     * Sign in to the [Azure DevOps Demo Generator site](https://azuredevopsdemogenerator.azurewebsites.net/)  
     * Provide project name, select your Org, and choose the "AKS_CAF_DevOps_Project_TaskList.zip" template from this GitHub Repo 
 
-*  [AKS_CAF_Project_ TaskList](https://github.com/faridabharmal/AKS_CAF_SolutionFactory/tree/master/TechnicalEnablement):
+*  [AKS CAF Project TaskList](TechnicalEnablement/AKS_CAF_Project_TaskList.xlsx):
 In case if you are not leveraging Azure DevOps for project management, no worries...We have provided all the necessary steps in an excel sheet which can be leveraged as is or imported into your own project management tool of choice.  
 
- *  [AKS_CAF_Governance_ Security_Policy](https://github.com/faridabharmal/AKS_CAF_SolutionFactory/tree/master/TechnicalEnablement):
+ *  [AKS CAF Governance Security_Policy](TechnicalEnablement/AKS_CAF_Governance_Security_Policy.xlsx):
  One common question that we get is what are the security considerations for AKS Deployment. So we have provided guidance about how to leverage the Azure policies to secure your environment. This can act as a good starting point for your security consideration. 
 
-* [Application Gateway Ingress Controller](https://github.com/faridabharmal/AKS_CAF_SolutionFactory/blob/master/TechnicalEnablement/CAF-Application%20Gateway%20Ingress%20Controller.docx)
+* [Application Gateway Ingress Controller](TechnicalEnablement/aks-appgw-ingress-controller.md)
 The Application Gateway Ingress Controller (AGIC) enables exposing applications running within AKS to the Internet by leveraging Azure’s native Application Gateway L7 load-balancer. This document details out this implementation.
-* [Best practices for cluster security and upgrades in Azure Kubernetes Service (AKS)](https://github.com/faridabharmal/AKS_CAF_SolutionFactory/blob/master/TechnicalEnablement/AKS_Best%20practices.docx):
 This document speaks to the security best practices around AKS.
-* [AKS Deployment Guide](https://github.com/faridabharmal/AKS_CAF_SolutionFactory/blob/master/TechnicalEnablement/AKS_Prerequisites.docx): This document details out the deployment guide for a sample AKS cluster.
-* [Decision Tree](https://github.com/faridabharmal/AKS_CAF_SolutionFactory/blob/master/TechnicalEnablement/AKS_Decision%20Tree.docx): A decision tree document that talks to some of the major decision points when deciding an AKS cluster deployment.
+* [AKS Deployment Guide](TechnicalEnablement/aks-getting-started.md): This document details out the deployment guide for a sample AKS cluster.
+* [Decision Tree](TechnicalEnablement/aks-decision-tree.md): A decision tree document that talks to some of the major decision points when deciding an AKS cluster deployment.
 
 ## Additional Links
 
