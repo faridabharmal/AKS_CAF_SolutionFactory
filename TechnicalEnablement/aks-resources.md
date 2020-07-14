@@ -18,6 +18,10 @@
     - [Istio as a service mesh](#istio-as-a-service-mesh)
     - [Prometheus for monitoring](#prometheus-for-monitoring)
 
+    - [Skaffold](#skaffold)
+    - [Istio as a service mesh](#istio-as-a-service-mesh)
+    - [Prometheus for monitoring](#prometheus-for-monitoring)
+
 Machine operating system is Windows 10
 
 ## [**Visual Studio Code**](https://code.visualstudio.com/docs)
